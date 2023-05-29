@@ -1,0 +1,198 @@
+Job <5333097> has been submitted to queue <q_sw_expr>
+waiting for dispatch ...
+
+SWRUN:WELCOME TO USE SWPROF!
+[2023- 5-24] [16:51:48] [INFO] Number of Process    :  6
+
+[2023- 5-24] [16:51:48] [INFO] <<================ Matrix index  :  0 ================>>
+[2023- 5-24] [16:51:48] [INFO] Mesh num             :  60000
+[2023- 5-24] [16:51:48] [INFO] Mesh >> decompose mesh!
+[2023- 5-24] [16:51:48] [INFO] Decompse num         :  6
+[2023- 5-24] [16:51:48] [INFO] Row num              :  10000
+[2023- 5-24] [16:51:48] [INFO] Uppper non-zero num  :  10000
+[2023- 5-24] [16:51:48] [INFO] Init >> init vector!
+[2023- 5-24] [16:51:48] [INFO] Matrix >> matrix tranform!
+[2023- 5-24] [16:51:48] [INFO] Iteration >> Main Iterations start!
+[2023- 5-24] [16:51:48] [INFO] Iteration >> [0/200]
+[2023- 5-24] [16:51:48] [INFO] Iteration >> [99/200] done!
+[2023- 5-24] [16:51:48] [INFO] Iteration >> [100/200]
+[2023- 5-24] [16:51:48] [INFO] Iteration >> [199/200] done!
+[2023- 5-24] [16:51:48] [INFO] Write result!
+[2023- 5-24] [16:51:48] [INFO] Check >> check result!
+[2023- 5-24] [16:51:48] [INFO] Check >> check result correct!
+[2023- 5-24] [16:51:48] [INFO] Time: spmv time cost: 0.0342s
+
+[2023- 5-24] [16:51:48] [INFO] <<================ Matrix index  :  1 ================>>
+[2023- 5-24] [16:51:48] [INFO] Mesh num             :  60000
+[2023- 5-24] [16:51:48] [INFO] Mesh >> decompose mesh!
+[2023- 5-24] [16:51:48] [INFO] Decompse num         :  6
+[2023- 5-24] [16:51:49] [INFO] Row num              :  10000
+[2023- 5-24] [16:51:49] [INFO] Uppper non-zero num  :  30000
+[2023- 5-24] [16:51:49] [INFO] Init >> init vector!
+[2023- 5-24] [16:51:49] [INFO] Matrix >> matrix tranform!
+[2023- 5-24] [16:51:49] [INFO] Iteration >> Main Iterations start!
+[2023- 5-24] [16:51:49] [INFO] Iteration >> [0/200]
+[2023- 5-24] [16:51:49] [INFO] Iteration >> [99/200] done!
+[2023- 5-24] [16:51:49] [INFO] Iteration >> [100/200]
+[2023- 5-24] [16:51:49] [INFO] Iteration >> [199/200] done!
+[2023- 5-24] [16:51:49] [INFO] Write result!
+[2023- 5-24] [16:51:49] [INFO] Check >> check result!
+[2023- 5-24] [16:51:49] [INFO] Check >> check result correct!
+[2023- 5-24] [16:51:49] [INFO] Time: spmv time cost: 0.0466s
+
+[2023- 5-24] [16:51:49] [INFO] <<================ Matrix index  :  2 ================>>
+[2023- 5-24] [16:51:49] [INFO] Mesh num             :  60000
+[2023- 5-24] [16:51:49] [INFO] Mesh >> decompose mesh!
+[2023- 5-24] [16:51:49] [INFO] Decompse num         :  6
+[2023- 5-24] [16:51:50] [INFO] Row num              :  10000
+[2023- 5-24] [16:51:50] [INFO] Uppper non-zero num  :  60000
+[2023- 5-24] [16:51:50] [INFO] Init >> init vector!
+[2023- 5-24] [16:51:50] [INFO] Matrix >> matrix tranform!
+[2023- 5-24] [16:51:50] [INFO] Iteration >> Main Iterations start!
+[2023- 5-24] [16:51:50] [INFO] Iteration >> [0/200]
+[2023- 5-24] [16:51:50] [INFO] Iteration >> [99/200] done!
+[2023- 5-24] [16:51:50] [INFO] Iteration >> [100/200]
+[2023- 5-24] [16:51:50] [INFO] Iteration >> [199/200] done!
+[2023- 5-24] [16:51:50] [INFO] Write result!
+[2023- 5-24] [16:51:50] [INFO] Check >> check result!
+[2023- 5-24] [16:51:50] [INFO] Check >> check result correct!
+[2023- 5-24] [16:51:50] [INFO] Time: spmv time cost: 0.0641s
+
+[2023- 5-24] [16:51:50] [INFO] <<================ Matrix index  :  3 ================>>
+[2023- 5-24] [16:51:50] [INFO] Mesh num             :  300000
+[2023- 5-24] [16:51:50] [INFO] Mesh >> decompose mesh!
+[2023- 5-24] [16:51:50] [INFO] Decompse num         :  6
+[2023- 5-24] [16:51:51] [INFO] Row num              :  50000
+[2023- 5-24] [16:51:51] [INFO] Uppper non-zero num  :  50000
+[2023- 5-24] [16:51:51] [INFO] Init >> init vector!
+[2023- 5-24] [16:51:51] [INFO] Matrix >> matrix tranform!
+[2023- 5-24] [16:51:52] [INFO] Iteration >> Main Iterations start!
+[2023- 5-24] [16:51:52] [INFO] Iteration >> [0/200]
+[2023- 5-24] [16:51:53] [INFO] Iteration >> [99/200] done!
+[2023- 5-24] [16:51:53] [INFO] Iteration >> [100/200]
+[2023- 5-24] [16:51:53] [INFO] Iteration >> [199/200] done!
+[2023- 5-24] [16:51:53] [INFO] Write result!
+[2023- 5-24] [16:51:53] [INFO] Check >> check result!
+[2023- 5-24] [16:51:53] [INFO] Check >> check result correct!
+[2023- 5-24] [16:51:53] [INFO] Time: spmv time cost: 0.1680s
+
+[2023- 5-24] [16:51:53] [INFO] <<================ Matrix index  :  4 ================>>
+[2023- 5-24] [16:51:53] [INFO] Mesh num             :  300000
+[2023- 5-24] [16:51:53] [INFO] Mesh >> decompose mesh!
+[2023- 5-24] [16:51:53] [INFO] Decompse num         :  6
+[2023- 5-24] [16:51:55] [INFO] Row num              :  50000
+[2023- 5-24] [16:51:55] [INFO] Uppper non-zero num  :  150000
+[2023- 5-24] [16:51:55] [INFO] Init >> init vector!
+[2023- 5-24] [16:51:55] [INFO] Matrix >> matrix tranform!
+[2023- 5-24] [16:51:56] [INFO] Iteration >> Main Iterations start!
+[2023- 5-24] [16:51:56] [INFO] Iteration >> [0/200]
+[2023- 5-24] [16:51:57] [INFO] Iteration >> [99/200] done!
+[2023- 5-24] [16:51:57] [INFO] Iteration >> [100/200]
+[2023- 5-24] [16:51:58] [INFO] Iteration >> [199/200] done!
+[2023- 5-24] [16:51:58] [INFO] Write result!
+[2023- 5-24] [16:51:58] [INFO] Check >> check result!
+[2023- 5-24] [16:51:58] [INFO] Check >> check result correct!
+[2023- 5-24] [16:51:58] [INFO] Time: spmv time cost: 0.2237s
+
+[2023- 5-24] [16:51:58] [INFO] <<================ Matrix index  :  5 ================>>
+[2023- 5-24] [16:51:58] [INFO] Mesh num             :  300000
+[2023- 5-24] [16:51:58] [INFO] Mesh >> decompose mesh!
+[2023- 5-24] [16:51:58] [INFO] Decompse num         :  6
+[2023- 5-24] [16:52: 1] [INFO] Row num              :  50000
+[2023- 5-24] [16:52: 1] [INFO] Uppper non-zero num  :  300000
+[2023- 5-24] [16:52: 1] [INFO] Init >> init vector!
+[2023- 5-24] [16:52: 1] [INFO] Matrix >> matrix tranform!
+[2023- 5-24] [16:52: 4] [INFO] Iteration >> Main Iterations start!
+[2023- 5-24] [16:52: 4] [INFO] Iteration >> [0/200]
+[2023- 5-24] [16:52: 5] [INFO] Iteration >> [99/200] done!
+[2023- 5-24] [16:52: 5] [INFO] Iteration >> [100/200]
+[2023- 5-24] [16:52: 5] [INFO] Iteration >> [199/200] done!
+[2023- 5-24] [16:52: 5] [INFO] Write result!
+[2023- 5-24] [16:52: 5] [INFO] Check >> check result!
+[2023- 5-24] [16:52: 5] [INFO] Check >> check result correct!
+[2023- 5-24] [16:52: 5] [INFO] Time: spmv time cost: 0.3092s
+
+[2023- 5-24] [16:52: 5] [INFO] <<================ Matrix index  :  6 ================>>
+[2023- 5-24] [16:52: 5] [INFO] Mesh num             :  1200000
+[2023- 5-24] [16:52: 5] [INFO] Mesh >> decompose mesh!
+[2023- 5-24] [16:52: 5] [INFO] Decompse num         :  6
+[2023- 5-24] [16:52:12] [INFO] Row num              :  200000
+[2023- 5-24] [16:52:12] [INFO] Uppper non-zero num  :  200000
+[2023- 5-24] [16:52:12] [INFO] Init >> init vector!
+[2023- 5-24] [16:52:12] [INFO] Matrix >> matrix tranform!
+[2023- 5-24] [16:52:15] [INFO] Iteration >> Main Iterations start!
+[2023- 5-24] [16:52:15] [INFO] Iteration >> [0/200]
+[2023- 5-24] [16:52:18] [INFO] Iteration >> [99/200] done!
+[2023- 5-24] [16:52:18] [INFO] Iteration >> [100/200]
+[2023- 5-24] [16:52:21] [INFO] Iteration >> [199/200] done!
+[2023- 5-24] [16:52:21] [INFO] Write result!
+[2023- 5-24] [16:52:21] [INFO] Check >> check result!
+[2023- 5-24] [16:52:21] [INFO] Check >> check result correct!
+[2023- 5-24] [16:52:21] [INFO] Time: spmv time cost: 1.3381s
+
+[2023- 5-24] [16:52:21] [INFO] <<================ Matrix index  :  7 ================>>
+[2023- 5-24] [16:52:21] [INFO] Mesh num             :  1200000
+[2023- 5-24] [16:52:21] [INFO] Mesh >> decompose mesh!
+[2023- 5-24] [16:52:21] [INFO] Decompse num         :  6
+[2023- 5-24] [16:52:33] [INFO] Row num              :  200000
+[2023- 5-24] [16:52:33] [INFO] Uppper non-zero num  :  600000
+[2023- 5-24] [16:52:33] [INFO] Init >> init vector!
+[2023- 5-24] [16:52:33] [INFO] Matrix >> matrix tranform!
+[2023- 5-24] [16:52:40] [INFO] Iteration >> Main Iterations start!
+[2023- 5-24] [16:52:40] [INFO] Iteration >> [0/200]
+[2023- 5-24] [16:52:44] [INFO] Iteration >> [99/200] done!
+[2023- 5-24] [16:52:44] [INFO] Iteration >> [100/200]
+[2023- 5-24] [16:52:48] [INFO] Iteration >> [199/200] done!
+[2023- 5-24] [16:52:48] [INFO] Write result!
+[2023- 5-24] [16:52:48] [INFO] Check >> check result!
+[2023- 5-24] [16:52:48] [INFO] Check >> check result correct!
+[2023- 5-24] [16:52:48] [INFO] Time: spmv time cost: 3.0355s
+
+[2023- 5-24] [16:52:48] [INFO] <<================ Matrix index  :  8 ================>>
+[2023- 5-24] [16:52:48] [INFO] Mesh num             :  1200000
+[2023- 5-24] [16:52:48] [INFO] Mesh >> decompose mesh!
+[2023- 5-24] [16:52:48] [INFO] Decompse num         :  6
+[2023- 5-24] [16:53:39] [INFO] Row num              :  200000
+[2023- 5-24] [16:53:39] [INFO] Uppper non-zero num  :  1200000
+[2023- 5-24] [16:53:39] [INFO] Init >> init vector!
+[2023- 5-24] [16:53:39] [INFO] Matrix >> matrix tranform!
+[2023- 5-24] [16:53:49] [INFO] Iteration >> Main Iterations start!
+[2023- 5-24] [16:53:49] [INFO] Iteration >> [0/200]
+[2023- 5-24] [16:53:55] [INFO] Iteration >> [99/200] done!
+[2023- 5-24] [16:53:55] [INFO] Iteration >> [100/200]
+[2023- 5-24] [16:54: 0] [INFO] Iteration >> [199/200] done!
+[2023- 5-24] [16:54: 0] [INFO] Write result!
+[2023- 5-24] [16:54: 0] [INFO] Check >> check result!
+[2023- 5-24] [16:54: 0] [INFO] Check >> check result correct!
+[2023- 5-24] [16:54: 0] [INFO] Time: spmv time cost: 5.6011s
+
+[2023- 5-24] [16:54: 0] [INFO] Time: matrix 0 spmv time cost: 0.0342s
+[2023- 5-24] [16:54: 0] [INFO] Time: matrix 1 spmv time cost: 0.0466s
+[2023- 5-24] [16:54: 0] [INFO] Time: matrix 2 spmv time cost: 0.0641s
+[2023- 5-24] [16:54: 0] [INFO] Time: matrix 3 spmv time cost: 0.1680s
+[2023- 5-24] [16:54: 0] [INFO] Time: matrix 4 spmv time cost: 0.2237s
+[2023- 5-24] [16:54: 0] [INFO] Time: matrix 5 spmv time cost: 0.3092s
+[2023- 5-24] [16:54: 0] [INFO] Time: matrix 6 spmv time cost: 1.3381s
+[2023- 5-24] [16:54: 0] [INFO] Time: matrix 7 spmv time cost: 3.0355s
+[2023- 5-24] [16:54: 0] [INFO] Time: matrix 8 spmv time cost: 5.6011s
+[2023- 5-24] [16:54: 0] [INFO] Time: total spmv time cost: 10.8204s
+[2023- 5-24] [16:54: 0] [INFO] Time: total time cost: 131.8449s
+
+
+==================(Node 0:CG 0) Hot Function List=================
+No. InstSize(B)    Time(%)   State FunName
+  1         396      62.69  ORIGIN slave__Waiting_For_Task
+  2         592      18.86  ORIGIN slave_intra_row_tail_solver
+  3         592       8.97  ORIGIN slave_intra_row_aligned_solver
+  4         296       7.59  ORIGIN slave_get_x
+  5         804       1.42  ORIGIN slave_solver
+  6        1340       0.40  ORIGIN slave_spmv_solver
+  7         476       0.03  ORIGIN slave_task_divide
+  8         132       0.00  ORIGIN slave_get_slave_cache_size
+  9         300       0.00  ORIGIN slave__crts_ldm_init
+ 10          84       0.00  ORIGIN slave_flush_slave_cache
+==================(Node 0:CG 0) End of HF List=================
+
+
+dispatching ...
+Job 5333097 has been finished.

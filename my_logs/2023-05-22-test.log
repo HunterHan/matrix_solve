@@ -1,0 +1,61 @@
+Job <5337801> has been submitted to queue <q_sw_expr>
+waiting for dispatch ...
+
+SWRUN:WELCOME TO USE SWPROF!
+mpiP: 
+mpiP: mpiP: mpiP V3.4.1 (Build Jul  6 2020/09:57:58)
+mpiP: Direct questions and errors to JN Ins.
+mpiP: 
+[2023- 5-26] [20:58:42] [INFO] Number of Process    :  6
+
+[2023- 5-26] [20:58:42] [INFO] <<================ Matrix index  :  0 ================>>
+[2023- 5-26] [20:58:42] [INFO] <<================ Matrix index  :  1 ================>>
+[2023- 5-26] [20:58:42] [INFO] <<================ Matrix index  :  2 ================>>
+[2023- 5-26] [20:58:42] [INFO] <<================ Matrix index  :  3 ================>>
+[2023- 5-26] [20:58:42] [INFO] Mesh num             :  300000
+[2023- 5-26] [20:58:42] [INFO] Mesh >> decompose mesh!
+[2023- 5-26] [20:58:42] [INFO] Decompse num         :  6
+[2023- 5-26] [20:58:43] [INFO] Row num              :  50000
+[2023- 5-26] [20:58:43] [INFO] Uppper non-zero num  :  50000
+[2023- 5-26] [20:58:43] [INFO] Init >> init vector!
+[2023- 5-26] [20:58:43] [INFO] Matrix >> matrix tranform!
+[2023- 5-26] [20:58:43] [INFO] Iteration >> Main Iterations start!
+[2023- 5-26] [20:58:43] [INFO] Iteration >> [0/200]
+[2023- 5-26] [20:58:44] [INFO] Iteration >> [99/200] done!
+[2023- 5-26] [20:58:44] [INFO] Iteration >> [100/200]
+[2023- 5-26] [20:58:45] [INFO] Iteration >> [199/200] done!
+[2023- 5-26] [20:58:45] [INFO] Write result!
+[2023- 5-26] [20:58:45] [INFO] Check >> check result!
+[2023- 5-26] [20:58:45] [INFO] Check >> check result correct!
+[2023- 5-26] [20:58:45] [INFO] Time: spmv time cost: 0.1638s
+
+[2023- 5-26] [20:58:45] [INFO] <<================ Matrix index  :  4 ================>>
+[2023- 5-26] [20:58:45] [INFO] <<================ Matrix index  :  5 ================>>
+[2023- 5-26] [20:58:45] [INFO] <<================ Matrix index  :  6 ================>>
+[2023- 5-26] [20:58:45] [INFO] <<================ Matrix index  :  7 ================>>
+[2023- 5-26] [20:58:45] [INFO] <<================ Matrix index  :  8 ================>>
+[2023- 5-26] [20:58:45] [INFO] Time: matrix 0 spmv time cost: 0.0000s
+[2023- 5-26] [20:58:45] [INFO] Time: matrix 1 spmv time cost: 0.0000s
+[2023- 5-26] [20:58:45] [INFO] Time: matrix 2 spmv time cost: 0.0000s
+[2023- 5-26] [20:58:45] [INFO] Time: matrix 3 spmv time cost: 0.1638s
+[2023- 5-26] [20:58:45] [INFO] Time: matrix 4 spmv time cost: 0.0000s
+[2023- 5-26] [20:58:45] [INFO] Time: matrix 5 spmv time cost: 0.0000s
+[2023- 5-26] [20:58:45] [INFO] Time: matrix 6 spmv time cost: 0.0000s
+[2023- 5-26] [20:58:45] [INFO] Time: matrix 7 spmv time cost: 0.0000s
+[2023- 5-26] [20:58:45] [INFO] Time: matrix 8 spmv time cost: 0.0000s
+[2023- 5-26] [20:58:45] [INFO] Time: total spmv time cost: 0.1638s
+[2023- 5-26] [20:58:45] [INFO] Time: total time cost: 2.7259s
+
+
+==================(Node 0:CG 0) Hot Function List=================
+No. InstSize(B)    Time(%)   State FunName
+  1         396      95.57  ORIGIN slave__Waiting_For_Task
+  2         592       3.07  ORIGIN slave_intra_row_tail_solver
+  3         592       0.66  ORIGIN slave_intra_row_aligned_solver
+  4         296       0.54  ORIGIN slave_get_x
+  5         804       0.14  ORIGIN slave_solver
+==================(Node 0:CG 0) End of HF List=================
+
+
+dispatching ...
+Job 5337801 has been finished.

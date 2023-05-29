@@ -1,0 +1,11 @@
+fn_name(fn,fn_fun).
+% fn start
+fn_bb_nr(fn,3).
+fn_edge_nr(fn,2).
+bb_p(bb2).
+% bb start
+edge_src(ed0,bb0).
+edge_dest(ed0,bb2).
+edge_flag(ed0,fallthru). 
+% bb end
+% phi start
